@@ -15,8 +15,6 @@ I am a professional procrastinator and drama girl. Just stated this rs-school co
 * SQL
 * HTML, CSS
 
-***
-
 ### Code example
 Registration task on codewars.com
 ```
